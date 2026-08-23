@@ -1,0 +1,6 @@
+@DesWeb_23_08_26_HostAddress = http://localhost:5049
+
+GET {{DesWeb_23_08_26_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
